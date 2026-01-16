@@ -164,10 +164,9 @@ One major challenge was tuning the chunk overlap between document segments. Too 
 
 ## 👤 Author
 
-**Ranjan Kumar Yadav**
-📧 Email: [ranjan83711yadav@gmail.com](mailto:ranjan83711yadav@gmail.com)
-🔗 [LinkedIn](https://www.linkedin.com/in/ranjan-kumar-yadav-05b62a231/)
-💻 [GitHub](https://github.com/ranjan83711yadav)
+**Nikhil panigrahi**
+📧 Email: [nkhlpngrh@gmail.com](mailto:nkhlpngrh@gmail.com)
+💻 [GitHub](https://github.com/Nikhil2003-sys)
 
 ---
 
